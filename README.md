@@ -1,8 +1,6 @@
 # MovieMate
 
-![MovieMate Logo](https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600)
-
-MovieMate is a personalized movie recommendation system developed by Nidha Ahmed. It leverages machine learning algorithms to suggest movies based on user preferences and similarities between movies.
+> MovieMate is a personalized movie recommendation system developed by Nidha Ahmed. It leverages machine learning algorithms to suggest movies based on user preferences and similarities between movies.
 
 ## Features
 
